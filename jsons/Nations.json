@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Osea",
+		"leaderName": "Vincent Harling",
+		"adjective": ["Osean"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Vincent Harling, despite global crises, including the aftermath of Ulysses 1994XF04, you've maintained Osea’s neutrality during the Continental War! Your administration prioritized rebuilding and cooperating with Yuktobania, and championed the contruction of the International Space Elevator, a monumental project that connected Earth to Space! This achievement symbolized unity and progress to all nations of Strangereal. Now your people need your leadership once more, to skies unknown.",
+		"startIntroPart2": "Vincent Harling, will your new empire shine through the ages of history?!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Our world stands at the precipice of conflict, and it is with a heavy heart that I make this proclamation.",
+		"attacked": "Stop this senseless conflict, and come to the conference table to settle our differences.",
+		"defeated": "May time shed light on the truth behind this conflict, and Razgriz avenge us.",
+		"introduction": "The people of Osea welcome you.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,15 +24,12 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "To those who still dare to hide behind the power of their hateful weapons. Bring yourself before the light of peace and harmony.",
+		"tradeRequest": "We hope you find this trade deal acceptable.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "Demons of Razgriz",
+		"cities": ["Oured","Bana","November","Akerson"]
 	}
 ]
